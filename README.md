@@ -1,16 +1,15 @@
 ### Hi there 👋
 # Hello, I'm Sashank(Madara909)
 
-![Profile Picture](URL_to_Your_Profile_Picture)
+![Profile Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtAYE2QYxlA4tXim7Bh3Hg6zex-qA3Y76nD8U5tCwUGNeKoXko6g21lYjx4pTY5PdqA8&usqp=CAU)
 
 ## About Me
 
 I'm a [Your Profession] passionate about [Your Interests]. I believe in the power of technology to change the world and enjoy working on projects that make a positive impact.
 
 - 🌱 I'm currently learning [What you're learning].
-- 💬 Ask me about [Your Areas of Expertise].
+- 💬 Ask me about [web development, javaj, python].
 - 📫 You can reach me at [Your Email Address].
-- 😄 Pronouns: [Your Pronouns].
 
 ## Projects
 
