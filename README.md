@@ -5,19 +5,19 @@
 
 ## About Me
 
-I'm a [Your Profession] passionate about [Your Interests]. I believe in the power of technology to change the world and enjoy working on projects that make a positive impact.
+I'm a Student passionate about Tech. I believe in the power of technology to change the world and enjoy working on projects that make a positive impact.
 
-- 🌱 I'm currently learning [What you're learning].
+- 🌱 I'm currently learning web develovment, React, Blockchain. 
 - 💬 Ask me about [web development, javaj, python].
-- 📫 You can reach me at [Your Email Address].
+- 📫 You can reach me at sashankbhardwaj99@gmail.com .
 
 ## Projects
 
 Here are some of the projects I've worked on:
 
-- [Project 1 Name](Link to Project 1): Brief description of the project.
-- [Project 2 Name](Link to Project 2): Brief description of the project.
-- [Project 3 Name](Link to Project 3): Brief description of the project.
+- [TinDogs](https://voluble-travesseiro-c01245.netlify.app): tinder for dogs .
+- [Simon game](https://euphonious-brioche-d5081f.netlify.app): follow and rember the pattern .
+- [Drum kit](https://eclectic-meringue-c65f3f.netlify.app): make you own beats and play the drum.
 
 You can find more of my work on [My Portfolio](Link to Your Portfolio).
 
@@ -25,13 +25,13 @@ You can find more of my work on [My Portfolio](Link to Your Portfolio).
 
 I have experience with a variety of technologies, including:
 
-- **Programming Languages**: [List of Languages]
-- **Web Development**: [List of Web Technologies]
-- **Data Science**: [List of Data Science Tools]
+- **Programming Languages**: [HTML, CSS, javaScript,java, Python]
+- **Web Development**: [Node js, express, REST]
+<!-- **Data Science**: [List of Data Science Tools]
 - **DevOps**: [List of DevOps Tools]
-- **Other**: [List of Other Technologies]
+- **Other**: [List of Other Technologies]-->
 
-## Blog
+<!--## Blog
 
 I occasionally write about topics that interest me. Check out some of my blog posts:
 
@@ -39,18 +39,16 @@ I occasionally write about topics that interest me. Check out some of my blog po
 - [Blog Post 2 Name](Link to Blog Post 2): Brief description of the blog post.
 - [Blog Post 3 Name](Link to Blog Post 3): Brief description of the blog post.
 
-You can find more of my writing on [My Blog](Link to Your Blog).
+You can find more of my writing on [My Blog](Link to Your Blog).-->
 
 ## Connect with Me
 
 Let's connect and chat! You can find me on:
 
-- [GitHub](Link to Your GitHub Profile)
-- [LinkedIn](Link to Your LinkedIn Profile)
-- [Twitter](Link to Your Twitter Profile)
+- [GitHub](https://github.com/Madara909)
+- [LinkedIn](www.linkedin.com/in/sashank-bhardwaj-7aa4a8284)
+<!-- [Twitter](Link to Your Twitter Profile)-->
 
 Feel free to reach out if you have any questions or just want to say hi!
-
----
 
 Thanks for visiting my GitHub profile! 😄
