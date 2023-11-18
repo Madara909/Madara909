@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
 - [TinDogs](https://voluble-travesseiro-c01245.netlify.app): tinder for dogs .
 - [Simon game](https://euphonious-brioche-d5081f.netlify.app): follow and rember the pattern .
 - [Drum kit](https://eclectic-meringue-c65f3f.netlify.app): make you own beats and play the drum.
-- [Notes keeper app](keeper-bak9jxz38-sashanks-projects-2ce6f8a5.vercel.app):react app to keep your notes.
+- [Notes keeper app](https://keeper-gold-eight.vercel.app/):react app to keep your notes.
 
 You can find more of my work on [My Portfolio](Link to Your Portfolio).
 
