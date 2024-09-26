@@ -15,6 +15,7 @@ I'm a Student passionate about Tech. I believe in the power of technology to cha
 
 Here are some of the projects I've worked on:
 
+- [nike website](https://nike-website-flax.vercel.app/): nike website landing page useing react and tailwind css .
 - [TinDogs](https://voluble-travesseiro-c01245.netlify.app): tinder for dogs .
 - [Simon game](https://euphonious-brioche-d5081f.netlify.app): follow and rember the pattern .
 - [Drum kit](https://eclectic-meringue-c65f3f.netlify.app): make you own beats and play the drum.
